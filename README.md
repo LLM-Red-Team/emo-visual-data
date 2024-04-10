@@ -2,7 +2,13 @@
 
 ## 简介
 
-这是一个表情包视觉标注数据集，它收集了5329个表情包并使用 [step-free-api](https://github.com/LLM-Red-Team/step-free-api) 项目通过跃问的多模态大模型完成的视觉标注。
+这是一个表情包视觉标注数据集，它收集了5329个表情包并使用 [step-free-api](https://github.com/LLM-Red-Team/step-free-api) 项目通过跃问的多模态大模型完成的视觉标注，辛苦了！跃问！。
+
+## 有什么用？
+
+通过这个数据集，我们在[智谱清言](https://chatglm.cn)创建了一个智能体，欢迎体验：
+
+色色 →点击查看智谱清言的回答https://chatglm.cn/share/FoK7g
 
 ## 完整文件下载
 
