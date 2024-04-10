@@ -10,6 +10,8 @@
 
 色色 →点击查看智谱清言的回答https://chatglm.cn/share/FoK7g
 
+glm-free-api可以直接通过[绘图接口](https://github.com/LLM-Red-Team/glm-free-api?tab=readme-ov-file#AI%E7%BB%98%E5%9B%BE)调用获得表情包，model需要记得改为 `6615735eaa7af4f70cf3a872` 。
+
 ## 完整文件下载
 
 [Google Drive](https://drive.google.com/file/d/1RnDMCnNrDU2RTsZIywW1NQKM2tkNRFdC)
