@@ -2,7 +2,7 @@
 
 ## 简介
 
-这是一个表情包视觉标注数据集，它收集了5329个表情包并使用 [step-free-api](https://github.com/LLM-Red-Team/step-free-api) 项目通过跃问的多模态大模型完成的视觉标注，辛苦了！跃问！。
+这是一个表情包视觉标注数据集，它收集了5329个表情包并使用 glm-4v api 和 [step-free-api](https://github.com/LLM-Red-Team/step-free-api) 项目通过多模态大模型完成的视觉标注。
 
 ## 有什么用？
 
